@@ -12,4 +12,4 @@ This is a collection of exercises to train the reader in specific IT related tas
 
 This site uses *Vyaasa*. A Jekyll theme created for a no-distraction reader-friendly websites. It is free and open source project.
 
-Reade more [here](https://blog.webjeda.com/jekyll-themes/vyaasa/)
+Read more [here](https://blog.webjeda.com/jekyll-themes/vyaasa/)
