@@ -28,6 +28,7 @@ paginate_path: /page:num/
 
 # Comments
 #disqus-shortname: webjeda-demo
+disqus-shortname: https-moozer-github-io-hands-on
 
 # Contact form
 # Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
